@@ -1,1334 +1,392 @@
 {
-   "about": {
-      "message": "A propos"
-   },
-   "aboutMenu": {
-      "message": "A propos..."
-   },
-   "action": {
-      "message": "Action"
-   },
-   "actions": {
-      "message": "Actions"
-   },
-   "add": {
-      "message": "Ajouter"
-   },
-   "addCookie": {
-      "message": "Ajouter Cookie"
-   },
-   "addCookieMenu": {
-      "message": "Ajouter Cookie..."
-   },
-   "addHorizontalLineGuide": {
-      "message": "Ajouter Ajouter un guide de ligne horizontale"
-   },
-   "addLabel": {
-      "message": "Ajouter..."
-   },
-   "addResizeOption": {
-      "message": "Ajouter Ajouter une option de redimensionnement"
-   },
-   "addResponsiveLayout": {
-      "message": "Ajouter une mise en page responsive"
-   },
-   "addTool": {
-      "message": "Ajouter Outil"
-   },
-   "addVerticalLineGuide": {
-      "message": "Ajouter Ajouter un guide de ligne verticale"
-   },
-   "advanced": {
-      "message": "Avancé"
-   },
-   "alt": {
-      "message": "Alt"
-   },
-   "ancestors": {
-      "message": "Ancêtres"
-   },
-   "anchor": {
-      "message": "Ancre"
-   },
-   "anchorInformation": {
-      "message": "Informations sur l’ancre"
-   },
-   "anchors": {
-      "message": "Ancres"
-   },
-   "atEndOfSession": {
-      "message": "À la fin de la session"
-   },
-   "author": {
-      "message": "Auteur"
-   },
-   "beautifyJavaScript": {
-      "message": "Beautify JavaScript"
-   },
-   "brokenImage": {
-      "message": "image cassée"
-   },
-   "brokenImages": {
-      "message": "Images brisées"
-   },
-   "buildDate": {
-      "message": "Date de construction"
-   },
-   "cancel": {
-      "message": "Annuler"
-   },
-   "cannotEdit": {
-      "message": "Impossible de modifier"
-   },
-   "cannotEditHTTPOnlyCookies": {
-      "message": "Http Seul les cookies ne peuvent pas être modifiés."
-   },
-   "cannotEditLocalhostCookies": {
-      "message": "Les cookies d’un domaine localhost ne peuvent pas être modifiés. \u003Ca href=\"http://chrispederick.com/work/web-developer/help/#cookies-localhost\" class=\"alert-link\" target=\"_blank\">Plus d'information\u003C/a>"
-   },
-   "checkAllCheckboxes": {
-      "message": "Cochez toutes les cases"
-   },
-   "checkAllCheckboxesMultipleResult": {
-      "message": "$count$ cases à cocher sont cochées.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "checkAllCheckboxesSingleResult": {
-      "message": "1 case cochée."
-   },
-   "children": {
-      "message": "Enfants"
-   },
-   "clear": {
-      "message": "Nettoyer"
-   },
-   "clearCache": {
-      "message": "Vider le cache"
-   },
-   "clearCacheConfirmation": {
-      "message": "Êtes-vous sûre de vouloir vider le cache ?"
-   },
-   "clearCacheResult": {
-      "message": "Le cache a été vidé."
-   },
-   "clearFormFields": {
-      "message": "Effacer les champs du formulaire"
-   },
-   "clearFormFieldsMultipleResult": {
-      "message": "Effacement des champs de formulaire dans les formulaires $count$.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "clearFormFieldsSingleResult": {
-      "message": "Champs de formulaire effacés dans 1 formulaire."
-   },
-   "clearHistory": {
-      "message": "Nettoyer l'historique"
-   },
-   "clearHistoryConfirmation": {
-      "message": "Êtes-vous sûre de vouloir effacer l’historique ?"
-   },
-   "clearHistoryResult": {
-      "message": "L’historique a été effacé."
-   },
-   "clearRadioButtons": {
-      "message": "Effacer les boutons radio"
-   },
-   "clearRadioButtonsMultipleResult": {
-      "message": "$count$ boutons radio effacés.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "clearRadioButtonsSingleResult": {
-      "message": "1 bouton radio effacé."
-   },
-   "collapseAll": {
-      "message": "Tout réduire"
-   },
-   "color": {
-      "message": "Couleur"
-   },
-   "colorInformation": {
-      "message": "Couleur information"
-   },
-   "colorPicker": {
-      "message": "Sélecteur de couleur"
-   },
-   "colors": {
-      "message": "Couleurs"
-   },
-   "content": {
-      "message": "Contenu"
-   },
-   "convertFormGetsToPosts": {
-      "message": "Convertir les GET de formulaire en POSTs"
-   },
-   "convertFormMethodsMultipleResult": {
-      "message": "$count$ convertis en $method$s.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         },
-         "method": {
-            "content": "$2"
-         }
-      }
-   },
-   "convertFormMethodsSingleResult": {
-      "message": "1 formulaire converti en $method$.",
-      "placeholders": {
-         "method": {
-            "content": "$1"
-         }
-      }
-   },
-   "convertFormPostsToGets": {
-      "message": "Convertir des formulaires POSTs en GETs"
-   },
-   "convertSelectElementsToTextInputs": {
-      "message": "Convertir les éléments sélectionnés en entrées de texte"
-   },
-   "convertSelectElementsToTextInputsMultipleResult": {
-      "message": "$count$ sélectionner les éléments convertis en entrées de texte.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "convertSelectElementsToTextInputsSingleResult": {
-      "message": "1 élement sélectionné converti en entrée de texte."
-   },
-   "convertTextInputsToTextareas": {
-      "message": "Convertir des entrées de texte en zones de texte"
-   },
-   "convertTextInputsToTextareasMultipleResult": {
-      "message": "$count$ entrées de texte converties en zones de texte.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "convertTextInputsToTextareasSingleResult": {
-      "message": "1 entrée de texte convertie en zone de texte."
-   },
-   "cookie": {
-      "message": "Cookie"
-   },
-   "cookieAdded": {
-      "message": "Le cookie '$name$' a été ajouté.",
-      "placeholders": {
-         "name": {
-            "content": "$1"
-         }
-      }
-   },
-   "cookieDeleted": {
-      "message": "Le cookie %S a été supprimé."
-   },
-   "cookieEdited": {
-      "message": "Le cookie %S a été édité."
-   },
-   "cookieInformation": {
-      "message": "Cookie Information"
-   },
-   "cookies": {
-      "message": "Cookies"
-   },
-   "couldNotLoadCSS": {
-      "message": "Le CSS n’a pas pu être chargé."
-   },
-   "couldNotLoadJavaScript": {
-      "message": "Le JavaScript n’a pas pu être chargé."
-   },
-   "couldNotLoadResponseHeaders": {
-      "message": "Les en-têtes responsifs n’ont pas pu être chargés."
-   },
-   "css": {
-      "message": "CSS"
-   },
-   "dark": {
-      "message": "Sombre"
-   },
-   "dashboard": {
-      "message": "Tableau de bord"
-   },
-   "delete": {
-      "message": "Supprimer"
-   },
-   "deleteConfirmation": {
-      "message": "Supprimer..."
-   },
-   "deleteCookie": {
-      "message": "Supprimer Cookie"
-   },
-   "deleteCookieConfirmation": {
-      "message": "Êtes-vous sûre de vouloir supprimer le cookie ? %S?"
-   },
-   "deleteDomainCookies": {
-      "message": "Supprimer les cookies de domaine"
-   },
-   "deleteDomainCookiesMultipleConfirmation": {
-      "message": "Êtes-vous sûre de vouloir supprimer les cookies du domaine $count$ ?",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "deleteDomainCookiesMultipleResult": {
-      "message": "$count$ Les cookies du domaine ont été supprimés.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "deleteDomainCookiesNoneFound": {
-      "message": "Il y a 0 cookies de domaine à supprimer."
-   },
-   "deleteDomainCookiesSingleConfirmation": {
-      "message": "Êtes-vous sûre de vouloir supprimer 1 cookie de domaine ?"
-   },
-   "deleteDomainCookiesSingleResult": {
-      "message": "1 cookie de domaine supprimé."
-   },
-   "deletePathCookies": {
-      "message": "Supprimer chemin d’accès des cookies"
-   },
-   "deletePathCookiesMultipleConfirmation": {
-      "message": "Êtes-vous sûre de vouloir supprimer le chemin d’accès des cookies de  $count$ ?",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "deletePathCookiesMultipleResult": {
-      "message": "$count$ chemin d’accès des cookies supprimé.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "deletePathCookiesNoneFound": {
-      "message": "Il y a 0 chemin de cookies à supprimer."
-   },
-   "deletePathCookiesSingleConfirmation": {
-      "message": "Êtes-vous sûre de vouloir supprimer le chemin à 1 cookie ?"
-   },
-   "deletePathCookiesSingleResult": {
-      "message": "1 cookie et son chemin supprimé."
-   },
-   "deleteResizeOption": {
-      "message": "Supprimer option de redimensionnement"
-   },
-   "deleteResizeOptionConfirmation": {
-      "message": "Êtes-vous sûr de vouloir supprimer l’option de redimensionnement '$option$' ?",
-      "placeholders": {
-         "option": {
-            "content": "$1"
-         }
-      }
-   },
-   "deleteResponsiveLayout": {
-      "message": "Supprimer la mise en page responsive"
-   },
-   "deleteResponsiveLayoutConfirmation": {
-      "message": "Êtes-vous sûr de vouloir supprimer la mise en page responsive '$option$' ?",
-      "placeholders": {
-         "option": {
-            "content": "$1"
-         }
-      }
-   },
-   "deleteSessionCookies": {
-      "message": "Supprimer les cookies de session"
-   },
-   "deleteSessionCookiesMultipleConfirmation": {
-      "message": "Êtes-vous sûre de vouloir supprimer les cookies de session $count$ ?",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "deleteSessionCookiesMultipleResult": {
-      "message": "$count$ cookies de session supprimés.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "deleteSessionCookiesNoneFound": {
-      "message": "Il y a 0 cookies de session à supprimer."
-   },
-   "deleteSessionCookiesSingleConfirmation": {
-      "message": "Êtes-vous sûre de vouloir supprimer 1 cookie de session ?"
-   },
-   "deleteSessionCookiesSingleResult": {
-      "message": "1 cookie de session supprimé."
-   },
-   "deleteTool": {
-      "message": "Supprimer Outil"
-   },
-   "deleteToolConfirmation": {
-      "message": "Êtes-vous sûr de vouloir supprimer l’outil '$option$' ?",
-      "placeholders": {
-         "option": {
-            "content": "$1"
-         }
-      }
-   },
-   "depth": {
-      "message": "Profondeur"
-   },
-   "description": {
-      "message": "Description"
-   },
-   "descriptionCannotBeEmpty": {
-      "message": "La description ne peut pas être vide."
-   },
-   "descriptionPlaceholder": {
-      "message": "Entrer une description"
-   },
-   "disable": {
-      "message": "Désactiver"
-   },
-   "disableAllStyles": {
-      "message": "Désactiver tous les styles"
-   },
-   "disableBrowserDefaultStyles": {
-      "message": "Désactiver les styles par défaut du navigateur"
-   },
-   "disableCookies": {
-      "message": "Désactiver les cookies"
-   },
-   "disableCookiesResult": {
-      "message": "Les cookies ont été désactivés."
-   },
-   "disableEmbeddedStyles": {
-      "message": "Désactiver les styles incorporés"
-   },
-   "disableImages": {
-      "message": "Désactiver les images"
-   },
-   "disableImagesResult": {
-      "message": "Les images ont été désactivées."
-   },
-   "disableInlineStyles": {
-      "message": "Désactiver les styles en ligne"
-   },
-   "disableJavaScript": {
-      "message": "Désactiver le JavaScript"
-   },
-   "disableJavaScriptResult": {
-      "message": "JavaScript a été désactivé."
-   },
-   "disableLinkedStyleSheets": {
-      "message": "Désactiver les feuilles de style liées"
-   },
-   "disableNotifications": {
-      "message": "Désactiver les notifications"
-   },
-   "disableNotificationsResult": {
-      "message": "Les notifications ont été désactivées."
-   },
-   "disablePlugins": {
-      "message": "Désactiver les plugins"
-   },
-   "disablePluginsResult": {
-      "message": "Les plugins ont été désactivés."
-   },
-   "disablePopups": {
-      "message": "Désactiver les fenêtres popups"
-   },
-   "disablePopupsResult": {
-      "message": "Popups ont été désactivées."
-   },
-   "disablePrintStyles": {
-      "message": "Désactiver les styles d’impression"
-   },
-   "displayARIARoles": {
-      "message": "Afficher les rôles ARIA"
-   },
-   "displayAbbreviations": {
-      "message": "Abréviations affichage"
-   },
-   "displayAccessKeys": {
-      "message": "Afficher les touches d’accès rapide"
-   },
-   "displayAltAttributes": {
-      "message": "Afficher les attributs Alt"
-   },
-   "displayAnchors": {
-      "message": "Ancrages affichage"
-   },
-   "displayColorPicker": {
-      "message": "Sélecteur de couleurs d’affichage"
-   },
-   "displayDivDimensions": {
-      "message": "Afficher les dimensions de div"
-   },
-   "displayDivOrder": {
-      "message": "Afficher l’ordre des div"
-   },
-   "displayElementInformation": {
-      "message": "Afficher les informations sur l’élément"
-   },
-   "displayFormDetails": {
-      "message": "Afficher les détails du formulaire"
-   },
-   "displayHandheldStyles": {
-      "message": "Afficher les styles de l’ordinateur de poche"
-   },
-   "displayHiddenElements": {
-      "message": "Afficher les éléments cachés"
-   },
-   "displayHiddenElementsMultipleResult": {
-      "message": "$count$ éléments cachés affichés.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "displayHiddenElementsSingleResult": {
-      "message": "1 élément caché affiché."
-   },
-   "displayIdClassDetails": {
-      "message": "ID affichage et détails de la classe"
-   },
-   "displayImageDimensions": {
-      "message": "Afficher les dimensions de l’image"
-   },
-   "displayImagePaths": {
-      "message": "Afficher les chemins d’accès aux images"
-   },
-   "displayLineGuides": {
-      "message": "Guides de ligne affichage"
-   },
-   "displayLinkDetails": {
-      "message": "Afficher les détails du lien"
-   },
-   "displayObjectInformation": {
-      "message": "Afficher les informations sur l’objet"
-   },
-   "displayOverlayWith": {
-      "message": "Afficher la superposition avec"
-   },
-   "displayPasswords": {
-      "message": "Mots de passe affichage"
-   },
-   "displayPasswordsMultipleResult": {
-      "message": "$count$ mots de passe affichés.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "displayPasswordsSingleResult": {
-      "message": "1 mot de passe affiché."
-   },
-   "displayPrintStyles": {
-      "message": "Display Print Styles"
-   },
-   "displayRuler": {
-      "message": "Règle d’affichage"
-   },
-   "displayStackLevels": {
-      "message": "Afficher les niveaux de pile"
-   },
-   "displayTabIndex": {
-      "message": "Afficher l’index de l’onglet"
-   },
-   "displayTableDepth": {
-      "message": "Afficher la profondeur de la table"
-   },
-   "displayTableInformation": {
-      "message": "Afficher les informations sur la table"
-   },
-   "displayTitleAttributes": {
-      "message": "Afficher les attributs de titre"
-   },
-   "displayTopographicInformation": {
-      "message": "Afficher les informations topographiques"
-   },
-   "displayWindowSize": {
-      "message": "Taille de la fenêtre d’affichage"
-   },
-   "displayWindowSizeResult": {
-      "message": "Fenêtre: $outerWidth$px x $outerHeight$px &nbsp;&nbsp;&nbsp; Fenêtre: $innerWidth$px x $innerHeight$px",
-      "placeholders": {
-         "innerHeight": {
-            "content": "$4"
-         },
-         "innerWidth": {
-            "content": "$3"
-         },
-         "outerHeight": {
-            "content": "$2"
-         },
-         "outerWidth": {
-            "content": "$1"
-         }
-      }
-   },
-   "documentOutline": {
-      "message": "Plan du document"
-   },
-   "documents": {
-      "message": "Documents"
-   },
-   "dom": {
-      "message": "DOM"
-   },
-   "dragDropReorder": {
-      "message": "Faites glisser et déposez pour réorganiser."
-   },
-   "duplicateId": {
-      "message": "Duplicata d’identité"
-   },
-   "duplicateIds": {
-      "message": "Identifiants en double"
-   },
-   "edit": {
-      "message": "Editer..."
-   },
-   "editCSS": {
-      "message": "Editer CSS"
-   },
-   "editCookie": {
-      "message": "Editer Cookie"
-   },
-   "editResizeDimensions": {
-      "message": "Modifier les dimensions de redimensionnement..."
-   },
-   "editResizeOption": {
-      "message": "Modifier l'option de redimensionnement"
-   },
-   "editResponsiveLayout": {
-      "message": "Modifier l'option de redimensionnement responsif"
-   },
-   "editTool": {
-      "message": "Outil d'édition"
-   },
-   "editTools": {
-      "message": "Outil d'édition..."
-   },
-   "elementInformation": {
-      "message": "Elément Information"
-   },
-   "elements": {
-      "message": "Eléments"
-   },
-   "embeddedCSSFrom": {
-      "message": "CSS intégré à partir de"
-   },
-   "embeddedJavaScriptFrom": {
-      "message": "JavaScript intégré à partir de"
-   },
-   "embeddedStyles": {
-      "message": "Styles incorporés"
-   },
-   "enableAutoCompletion": {
-      "message": "Activer l’auto-complétion"
-   },
-   "enableAutoCompletionMultipleResult": {
-      "message": "Activation de l’auto-complétion pour $count$ ",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "enableAutoCompletionSingleResult": {
-      "message": "Activation de l’auto-complétion pour 1 élément."
-   },
-   "enableCookiesResult": {
-      "message": "Les cookies ont été activés."
-   },
-   "enableFormFields": {
-      "message": "Activer les champs de formulaire"
-   },
-   "enableFormFieldsMultipleResult": {
-      "message": "$count$ champs de formulaire activés.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "enableFormFieldsSingleResult": {
-      "message": "1 champ de formulaire activé."
-   },
-   "enableImagesResult": {
-      "message": "Les images ont été activés."
-   },
-   "enableJavaScriptResult": {
-      "message": "JavaScript a été activé."
-   },
-   "enableNotificationsResult": {
-      "message": "Les notifications ont été activées."
-   },
-   "enablePluginsResult": {
-      "message": "Les plugins ont été activés."
-   },
-   "enablePopupsResult": {
-      "message": "Les fenêtres popups ont été activées."
-   },
-   "endPositionX": {
-      "message": "Position finale : X ="
-   },
-   "expandAll": {
-      "message": "Développer tout"
-   },
-   "expandSelectElements": {
-      "message": "Développer sélectionner des éléments"
-   },
-   "expandSelectElementsMultipleResult": {
-      "message": "$count$ certains éléments développés.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "expandSelectElementsSingleResult": {
-      "message": "1 Sélectionnez l’élément développé."
-   },
-   "expires": {
-      "message": "Expire"
-   },
-   "expiresCannotBeEmpty": {
-      "message": "La date d’expiration ne peut pas être vide s’il ne s’agit pas d’un cookie de session."
-   },
-   "expiresNotValid": {
-      "message": "La date d’expiration n’est pas une date valide."
-   },
-   "expiresPlaceholder": {
-      "message": "Entrez la date d’expiration"
-   },
-   "extensionDescription": {
-      "message": "Ajoute un bouton de barre d’outils avec divers outils de développement Web."
-   },
-   "extensionGalleryError": {
-      "message": "ne fonctionne pas sur la galerie d’extensions Chrome ou le site des modules complémentaires de Firefox.  \u003Ca href=\"http://chrispederick.com/work/web-developer/help/#extension-gallery\" class=\"alert-link\" target=\"_blank\">Plus d’informations\u003C/a>"
-   },
-   "extensionName": {
-      "message": "Développeur Web"
-   },
-   "findBrokenImages": {
-      "message": "Rechercher des images cassées"
-   },
-   "findDuplicateIds": {
-      "message": "Rechercher les identifiants en double"
-   },
-   "followOnTwitter": {
-      "message": "Suivez-nous sur Twitter"
-   },
-   "form": {
-      "message": "Forme"
-   },
-   "forms": {
-      "message": "Formes"
-   },
-   "from": {
-      "message": "De"
-   },
-   "general": {
-      "message": "Général"
-   },
-   "heading": {
-      "message": "Rubrique"
-   },
-   "headings": {
-      "message": "Rubriques"
-   },
-   "height": {
-      "message": "Hauteur"
-   },
-   "heightCannotBeEmpty": {
-      "message": "La hauteur ne peut pas être vide."
-   },
-   "heightNotValid": {
-      "message": "La hauteur n’est pas valide."
-   },
-   "heightPlaceholder": {
-      "message": "Entrez la hauteur en pixels"
-   },
-   "help": {
-      "message": "Aide..."
-   },
-   "hideBackgroundImages": {
-      "message": "Masquer les images d’arrière-plan"
-   },
-   "hideImages": {
-      "message": "Masquer les images"
-   },
-   "host": {
-      "message": "Hôte"
-   },
-   "hostCannotBeEmpty": {
-      "message": "L’hôte ne peut pas être vide."
-   },
-   "hostCannotBeLocalhost": {
-      "message": "Ne pas ajouter de cookies sur un domaine localhost. \u003Ca href=\"http://chrispederick.com/work/web-developer/help/#cookies-localhost\">Plus d’informations\u003C/a>"
-   },
-   "hostPlaceholder": {
-      "message": "Entrez l’hôte"
-   },
-   "hoverColor": {
-      "message": "Couleur de survol :"
-   },
-   "httpOnly": {
-      "message": "Http seulement"
-   },
-   "icons": {
-      "message": "Icônes"
-   },
-   "iconsText": {
-      "message": "Icônes & texte"
-   },
-   "id": {
-      "message": "Id"
-   },
-   "image": {
-      "message": "Image"
-   },
-   "images": {
-      "message": "Images"
-   },
-   "information": {
-      "message": "Information"
-   },
-   "internalBrowserPagesError": {
-      "message": "does not work on internal browser pages."
-   },
-   "javaScript": {
-      "message": "JavaScript"
-   },
-   "keyboard": {
-      "message": "Clavier"
-   },
-   "label": {
-      "message": "Label"
-   },
-   "layout": {
-      "message": "Layout"
-   },
-   "layouts": {
-      "message": "Layouts"
-   },
-   "light": {
-      "message": "Clair"
-   },
-   "lineGuides": {
-      "message": "Guides de ligne"
-   },
-   "linearizePage": {
-      "message": "Linéariser la page"
-   },
-   "link": {
-      "message": "Lien"
-   },
-   "linkInformation": {
-      "message": "Lien information"
-   },
-   "links": {
-      "message": "Liens"
-   },
-   "makeFormFieldsWritable": {
-      "message": "Rendre les champs de formulaire accessibles en écriture"
-   },
-   "makeFormFieldsWritableMultipleResult": {
-      "message": "$count$ des champs de formulaire sont rendus inscriptibles.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "makeFormFieldsWritableSingleResult": {
-      "message": "1 champ de formulaire rendu inscriptible."
-   },
-   "makeFramesResizable": {
-      "message": "Rendre les cadres redimensionnables"
-   },
-   "makeFramesResizableMultipleResult": {
-      "message": "$count$ cadres rendus redimensionnables.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "makeFramesResizableSingleResult": {
-      "message": "1 cadre redimensionnable."
-   },
-   "makeImagesFullSize": {
-      "message": "Rendre les images en taille réelle"
-   },
-   "makeImagesFullSizeMultipleResult": {
-      "message": "$count$ images en taille réelle.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "makeImagesFullSizeSingleResult": {
-      "message": "1 image en taille réelle."
-   },
-   "makeImagesInvisible": {
-      "message": "Rendre les images invisibles"
-   },
-   "markAllLinksUnvisited": {
-      "message": "Marquer tous les liens non visités"
-   },
-   "markAllLinksUnvisitedResult": {
-      "message": "Tous les liens ont été marqués comme non visités."
-   },
-   "markAllLinksVisited": {
-      "message": "Marquer tous les liens visités"
-   },
-   "markAllLinksVisitedResult": {
-      "message": "Tous les liens ont été marqués comme visités."
-   },
-   "maximumLength": {
-      "message": "Longueur maximale"
-   },
-   "metaTag": {
-      "message": "meta tag"
-   },
-   "metaTags": {
-      "message": "Meta Tags"
-   },
-   "method": {
-      "message": "Méthode"
-   },
-   "miscellaneous": {
-      "message": "Divers"
-   },
-   "missingHeading": {
-      "message": "(En-tête manquant)"
-   },
-   "name": {
-      "message": "Nom"
-   },
-   "nameCannotBeEmpty": {
-      "message": "Le nom ne peut pas être vide."
-   },
-   "namePlaceholder": {
-      "message": "Entrez le nom"
-   },
-   "nextPosition": {
-      "message": "Position suivante ="
-   },
-   "no": {
-      "message": "Non"
-   },
-   "noHeadingText": {
-      "message": "(Pas de texte d’en-tête)"
-   },
-   "none": {
-      "message": "Aucune"
-   },
-   "options": {
-      "message": "Options"
-   },
-   "optionsMenu": {
-      "message": "Options..."
-   },
-   "outline": {
-      "message": "Contour"
-   },
-   "outlineAbsolutePositionedElements": {
-      "message": "Contour des éléments positionnés de manière absolue"
-   },
-   "outlineAllImages": {
-      "message": "Contour de toutes les images"
-   },
-   "outlineBackgroundImages": {
-      "message": "Contour des images d’arrière-plan"
-   },
-   "outlineBlockLevelElements": {
-      "message": "Contour des éléments de niveau de bloc"
-   },
-   "outlineDeprecatedElements": {
-      "message": "Décrire les éléments obsolètes"
-   },
-   "outlineExternalLinks": {
-      "message": "Aperçu des liens externes"
-   },
-   "outlineFixedPositionedElements": {
-      "message": "Contour des éléments positionnés fixes"
-   },
-   "outlineFloatedElements": {
-      "message": "Contour des éléments flottants"
-   },
-   "outlineFormFieldsWithoutLabels": {
-      "message": "Contour des champs de formulaire sans libellés"
-   },
-   "outlineFrames": {
-      "message": "Cadres contour"
-   },
-   "outlineHeadings": {
-      "message": "En-têtes de rubrique"
-   },
-   "outlineImagesWithAdjustedDimensions": {
-      "message": "Contour des images avec des dimensions ajustées"
-   },
-   "outlineImagesWithEmptyAltAttributes": {
-      "message": "Contour d’images avec des attributs Alt vides"
-   },
-   "outlineImagesWithOversizedDimensions": {
-      "message": "Contour des images avec des dimensions ajustées"
-   },
-   "outlineImagesWithoutAltAttributes": {
-      "message": "Images de plan sans attributs Alt"
-   },
-   "outlineImagesWithoutDimensions": {
-      "message": "Contour d’images sans dimensions"
-   },
-   "outlineNonSecureElements": {
-      "message": "Décrire les éléments non sécurisés"
-   },
-   "outlineRelativePositionedElements": {
-      "message": "Contour des éléments positionnés relatifs"
-   },
-   "outlineTableCaptions": {
-      "message": "Légendes de cellule de tableau"
-   },
-   "outlineTableCells": {
-      "message": "Définir les cellules du tableau"
-   },
-   "outlineTables": {
-      "message": "Tableaux cellule"
-   },
-   "password": {
-      "message": "Mot de passe"
-   },
-   "path": {
-      "message": "Chemin"
-   },
-   "pathCannotBeEmpty": {
-      "message": "Le chemin ne peut pas être vide."
-   },
-   "pathPlaceholder": {
-      "message": "Entrez le chemin d’accès"
-   },
-   "populateEmailAddress": {
-      "message": "Adresse e-mail à utiliser pour remplir les champs du formulaire de courrier électronique"
-   },
-   "populateFormFields": {
-      "message": "Remplir les champs de formulaire"
-   },
-   "populateFormFieldsMultipleResult": {
-      "message": "$count$ champs de formulaire remplis.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "populateFormFieldsSingleResult": {
-      "message": "1 champ de formulaire rempli."
-   },
-   "position": {
-      "message": "Position"
-   },
-   "positionLabel": {
-      "message": "Position ="
-   },
-   "preview": {
-      "message": "Prévisualisation"
-   },
-   "previousPosition": {
-      "message": "Position précédente ="
-   },
-   "property": {
-      "message": "Propriété"
-   },
-   "reloadImages": {
-      "message": "Recharger les images"
-   },
-   "reloadImagesResult": {
-      "message": "Toutes les images ont été rechargées."
-   },
-   "reloadLayouts": {
-      "message": "Recharger les mises en page"
-   },
-   "reloadLinkedStyleSheets": {
-      "message": "Recharger les feuilles de style liées"
-   },
-   "reloadLinkedStyleSheetsResult": {
-      "message": "Toutes les feuilles de style liées ont été rechargées."
-   },
-   "removeFormValidation": {
-      "message": "Supprimer la validation du formulaire"
-   },
-   "removeFormValidationMultipleResult": {
-      "message": "Suppression de la validation du formulaire $count$ ",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "removeFormValidationSingleResult": {
-      "message": "Suppression de la validation d’un champ de formulaire."
-   },
-   "removeMaximumLengths": {
-      "message": "Supprimer les longueurs maximales"
-   },
-   "removeMaximumLengthsMultipleResult": {
-      "message": "Suppression de la longueur maximale des champs de formulaire $count$.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "removeMaximumLengthsSingleResult": {
-      "message": "Suppression de la longueur maximale d’un champ de formulaire."
-   },
-   "replaceImagesWithAltAttributes": {
-      "message": "Remplacer les images par des attributs Alt"
-   },
-   "resetDisableFeatures": {
-      "message": "Réinitialiser les fonctionnalités de désactivation"
-   },
-   "resetDisableFeaturesResult": {
-      "message": "Toutes les fonctionnalités désactivées ou activées par Web Developer ont été réinitialisées."
-   },
-   "resetPage": {
-      "message": "Réinitialiser la page"
-   },
-   "resize": {
-      "message": "Redimensionner"
-   },
-   "resizeWindow": {
-      "message": "Redimensionner fenêtre"
-   },
-   "resizeWindowMenu": {
-      "message": "Redimensionner fenêtre..."
-   },
-   "resize_1_description": {
-      "message": "1024x768"
-   },
-   "responseHeaders": {
-      "message": "Response Headers"
-   },
-   "responsive": {
-      "message": "Responsive"
-   },
-   "responsiveLayouts": {
-      "message": "Responsive cadres"
-   },
-   "responsive_layout_1_description": {
-      "message": "Mobile portrait"
-   },
-   "responsive_layout_2_description": {
-      "message": "Mobile paysage"
-   },
-   "responsive_layout_3_description": {
-      "message": "Mode portrait sur petite tablette"
-   },
-   "responsive_layout_4_description": {
-      "message": "Mode paysage sur petites tablettes"
-   },
-   "responsive_layout_5_description": {
-      "message": "Mode portrait sur tablette"
-   },
-   "responsive_layout_6_description": {
-      "message": "Mode paysage sur tablette"
-   },
-   "ruler": {
-      "message": "Règle"
-   },
-   "save": {
-      "message": "Sauver"
-   },
-   "secure": {
-      "message": "Sécurisé"
-   },
-   "secureCookie": {
-      "message": "Cookie sécurisé"
-   },
-   "selectAnElementDisplayInformation": {
-      "message": "Sélectionnez un élément pour afficher les informations le concernant"
-   },
-   "selectedColor": {
-      "message": "Couleur sélectionnée :"
-   },
-   "sessionCookie": {
-      "message": "Cookie de session"
-   },
-   "showElementTagNames": {
-      "message": "Afficher les noms des balises d’élément"
-   },
-   "size": {
-      "message": "Taille"
-   },
-   "src": {
-      "message": "Src"
-   },
-   "startPositionX": {
-      "message": "Start Position: X ="
-   },
-   "syntaxHighlightPerformance": {
-      "message": "Notez que l'activation de la coloration syntaxique peut affecter les performances du navigateur."
-   },
-   "syntaxHighlightTheme": {
-      "message": "Thème de mise en évidence de la syntaxe"
-   },
-   "syntaxHighlighting": {
-      "message": "Mise en évidence de la syntaxe"
-   },
-   "text": {
-      "message": "Texte"
-   },
-   "tool_1_description": {
-      "message": "Valider le CSS"
-   },
-   "tool_2_description": {
-      "message": "Valider le flux"
-   },
-   "tool_3_description": {
-      "message": "Valider le HTML"
-   },
-   "tool_4_description": {
-      "message": "Valider l'accessibilité"
-   },
-   "tool_5_description": {
-      "message": "Valider les liens"
-   },
-   "tool_6_description": {
-      "message": "Valider les données structurées"
-   },
-   "tools": {
-      "message": "Outils"
-   },
-   "type": {
-      "message": "Type"
-   },
-   "uncheckAllCheckboxes": {
-      "message": "Décochez toutes les cases"
-   },
-   "uncheckAllCheckboxesMultipleResult": {
-      "message": "$count$ cases à cocher non cochées.",
-      "placeholders": {
-         "count": {
-            "content": "$1"
-         }
-      }
-   },
-   "uncheckAllCheckboxesSingleResult": {
-      "message": "1 case à cocher décochée."
-   },
-   "undoBeautifyJavaScript": {
-      "message": "Annuler l’embellissement JavaScript"
-   },
-   "url": {
-      "message": "URL"
-   },
-   "urlCannotBeEmpty": {
-      "message": "L’URL ne peut pas être vide."
-   },
-   "urlPlaceholder": {
-      "message": "Entrer une URL"
-   },
-   "useBorderBoxModel": {
-      "message": "Use Border Box Model"
-   },
-   "validateLocalCSS": {
-      "message": "Valider le CSS local"
-   },
-   "validateLocalHTML": {
-      "message": "Valider le HTML local"
-   },
-   "value": {
-      "message": "Valeur"
-   },
-   "valuePlaceholder": {
-      "message": "Entrer la valeur"
-   },
-   "version": {
-      "message": "Version"
-   },
-   "viewAnchorInformation": {
-      "message": "Afficher les informations sur l’ancrage"
-   },
-   "viewCSS": {
-      "message": "Voir CSS"
-   },
-   "viewColorInformation": {
-      "message": "Afficher les informations sur les couleurs"
-   },
-   "viewCookieInformation": {
-      "message": "Afficher les informations sur le Cookie"
-   },
-   "viewDocumentOutline": {
-      "message": "Afficher le plan du document"
-   },
-   "viewFormInformation": {
-      "message": "Afficher les informations du formulaire"
-   },
-   "viewImageInformation": {
-      "message": "View Image Information"
-   },
-   "viewJavaScript": {
-      "message": "Voir JavaScript"
-   },
-   "viewLinkInformation": {
-      "message": "Afficher les informations sur le lien"
-   },
-   "viewMetaTagInformation": {
-      "message": "Afficher les informations sur les balises Meta"
-   },
-   "viewResponseHeaders": {
-      "message": "Afficher les en-têtes de réponse"
-   },
-   "viewResponsiveLayouts": {
-      "message": "🪟 Voir les pages reponsives"
-   },
-   "viewSource": {
-      "message": "Voir la source"
-   },
-   "viewportDescription": {
-      "message": "Redimensionner la fenêtre d’affichage"
-   },
-   "width": {
-      "message": "Largeur"
-   },
-   "widthCannotBeEmpty": {
-      "message": "La largeur ne peut pas être vide."
-   },
-   "widthNotValid": {
-      "message": "The width is not valid."
-   },
-   "widthPlaceholder": {
-      "message": "Entrez la largeur en pixels"
-   },
-   "yLabel": {
-      "message": "Y ="
-   },
-   "yes": {
-      "message": "Oui"
-   }
+   "about": { "message": "A propos" },
+   "aboutMenu": { "message": "A propos..." },
+   "action": { "message": "Action" },
+   "actions": { "message": "Actions" },
+   "add": { "message": "Ajouter" },
+   "addCookie": { "message": "Ajouter Cookie" },
+   "addCookieMenu": { "message": "Ajouter Cookie..." },
+   "addHorizontalLineGuide": { "message": "Ajouter Ajouter un guide de ligne horizontale" },
+   "addLabel": { "message": "Ajouter..." },
+   "addResizeOption": { "message": "Ajouter Ajouter une option de redimensionnement" },
+   "addResponsiveLayout": { "message": "Ajouter une mise en page responsive" },
+   "addTool": { "message": "Ajouter Outil" },
+   "addVerticalLineGuide": { "message": "Ajouter Ajouter un guide de ligne verticale" },
+   "advanced": { "message": "Avancé" },
+   "alt": { "message": "Alt" },
+   "ancestors": { "message": "Ancêtres" },
+   "anchor": { "message": "Ancre" },
+   "anchorInformation": { "message": "Informations sur l’ancre" },
+   "anchors": { "message": "Ancres" },
+   "atEndOfSession": { "message": "À la fin de la session" },
+   "author": { "message": "Auteur" },
+   "beautifyJavaScript": { "message": "Beautify JavaScript" },
+   "brokenImage": { "message": "image cassée" },
+   "brokenImages": { "message": "Images brisées" },
+   "buildDate": { "message": "Date de construction" },
+   "cancel": { "message": "Annuler" },
+   "cannotEdit": { "message": "Impossible de modifier" },
+   "cannotEditHTTPOnlyCookies": { "message": "Http Seul les cookies ne peuvent pas être modifiés." },
+   "cannotEditLocalhostCookies": { "message": "Les cookies d’un domaine localhost ne peuvent pas être modifiés. \u003Ca href=\"http://chrispederick.com/work/web-developer/help/#cookies-localhost\" class=\"alert-link\" target=\"_blank\">Plus d'information\u003C/a>" },
+   "checkAllCheckboxes": { "message": "Cochez toutes les cases" },
+   "checkAllCheckboxesMultipleResult": { "message": "$count$ cases à cocher sont cochées.", "placeholders": { "count": { "content": "$1" } } },
+   "checkAllCheckboxesSingleResult": { "message": "1 case cochée." },
+   "children": { "message": "Enfants" },
+   "clear": { "message": "Nettoyer" },
+   "clearCache": { "message": "Vider le cache" },
+   "clearCacheConfirmation": { "message": "Êtes-vous sûre de vouloir vider le cache ?" },
+   "clearCacheResult": { "message": "Le cache a été vidé." },
+   "clearFormFields": { "message": "Effacer les champs du formulaire" },
+   "clearFormFieldsMultipleResult": { "message": "Effacement des champs de formulaire dans les formulaires $count$.", "placeholders": { "count": { "content": "$1" } } },
+   "clearFormFieldsSingleResult": { "message": "Champs de formulaire effacés dans 1 formulaire." },
+   "clearHistory": { "message": "Nettoyer l'historique" },
+   "clearHistoryConfirmation": { "message": "Êtes-vous sûre de vouloir effacer l’historique ?" },
+   "clearHistoryResult": { "message": "L’historique a été effacé." },
+   "clearRadioButtons": { "message": "Effacer les boutons radio" },
+   "clearRadioButtonsMultipleResult": { "message": "$count$ boutons radio effacés.", "placeholders": { "count": { "content": "$1" } } },
+   "clearRadioButtonsSingleResult": { "message": "1 bouton radio effacé." },
+   "collapseAll": { "message": "Tout réduire" },
+   "color": { "message": "Couleur" },
+   "colorInformation": { "message": "Couleur information" },
+   "colorPicker": { "message": "Sélecteur de couleur" },
+   "colors": { "message": "Couleurs" },
+   "content": { "message": "Contenu" },
+   "convertFormGetsToPosts": { "message": "Convertir les GET de formulaire en POSTs" },
+   "convertFormMethodsMultipleResult": { "message": "$count$ convertis en $method$s.", "placeholders": { "count": { "content": "$1" }, "method": { "content": "$2" } } },
+   "convertFormMethodsSingleResult": { "message": "1 formulaire converti en $method$.", "placeholders": { "method": { "content": "$1" } } },
+   "convertFormPostsToGets": { "message": "Convertir des formulaires POSTs en GETs" },
+   "convertSelectElementsToTextInputs": { "message": "Convertir les éléments sélectionnés en entrées de texte" },
+   "convertSelectElementsToTextInputsMultipleResult": { "message": "$count$ sélectionner les éléments convertis en entrées de texte.", "placeholders": { "count": { "content": "$1" } } },
+   "convertSelectElementsToTextInputsSingleResult": { "message": "1 élement sélectionné converti en entrée de texte." },
+   "convertTextInputsToTextareas": { "message": "Convertir des entrées de texte en zones de texte" },
+   "convertTextInputsToTextareasMultipleResult": { "message": "$count$ entrées de texte converties en zones de texte.", "placeholders": { "count": { "content": "$1" } } },
+   "convertTextInputsToTextareasSingleResult": { "message": "1 entrée de texte convertie en zone de texte." },
+   "cookie": { "message": "Cookie" },
+   "cookieAdded": { "message": "Le cookie '$name$' a été ajouté.", "placeholders": { "name": { "content": "$1" } } },
+   "cookieDeleted": { "message": "Le cookie %S a été supprimé." },
+   "cookieEdited": { "message": "Le cookie %S a été édité." },
+   "cookieInformation": { "message": "Cookie Information" },
+   "cookies": { "message": "Cookies" },
+   "couldNotLoadCSS": { "message": "Le CSS n’a pas pu être chargé." },
+   "couldNotLoadJavaScript": { "message": "Le JavaScript n’a pas pu être chargé." },
+   "couldNotLoadResponseHeaders": { "message": "Les en-têtes responsifs n’ont pas pu être chargés." },
+   "css": { "message": "CSS" },
+   "dark": { "message": "Sombre" },
+   "dashboard": { "message": "Tableau de bord" },
+   "delete": { "message": "Supprimer" },
+   "deleteConfirmation": { "message": "Supprimer..." },
+   "deleteCookie": { "message": "Supprimer Cookie" },
+   "deleteCookieConfirmation": { "message": "Êtes-vous sûre de vouloir supprimer le cookie ? %S?" },
+   "deleteDomainCookies": { "message": "Supprimer les cookies de domaine" },
+   "deleteDomainCookiesMultipleConfirmation": { "message": "Êtes-vous sûre de vouloir supprimer les cookies du domaine $count$ ?", "placeholders": { "count": { "content": "$1" } } },
+   "deleteDomainCookiesMultipleResult": { "message": "$count$ Les cookies du domaine ont été supprimés.", "placeholders": { "count": { "content": "$1" } } },
+   "deleteDomainCookiesNoneFound": { "message": "Il y a 0 cookies de domaine à supprimer." },
+   "deleteDomainCookiesSingleConfirmation": { "message": "Êtes-vous sûre de vouloir supprimer 1 cookie de domaine ?" },
+   "deleteDomainCookiesSingleResult": { "message": "1 cookie de domaine supprimé." },
+   "deletePathCookies": { "message": "Supprimer chemin d’accès des cookies" },
+   "deletePathCookiesMultipleConfirmation": { "message": "Êtes-vous sûre de vouloir supprimer le chemin d’accès des cookies de  $count$ ?", "placeholders": { "count": { "content": "$1" } } },
+   "deletePathCookiesMultipleResult": { "message": "$count$ chemin d’accès des cookies supprimé.", "placeholders": { "count": { "content": "$1" } } },
+   "deletePathCookiesNoneFound": { "message": "Il y a 0 chemin de cookies à supprimer." },
+   "deletePathCookiesSingleConfirmation": { "message": "Êtes-vous sûre de vouloir supprimer le chemin à 1 cookie ?" },
+   "deletePathCookiesSingleResult": { "message": "1 cookie et son chemin supprimé." },
+   "deleteResizeOption": { "message": "Supprimer option de redimensionnement" },
+   "deleteResizeOptionConfirmation": { "message": "Êtes-vous sûr de vouloir supprimer l’option de redimensionnement '$option$' ?", "placeholders": { "option": { "content": "$1" } } },
+   "deleteResponsiveLayout": { "message": "Supprimer la mise en page responsive" },
+   "deleteResponsiveLayoutConfirmation": { "message": "Êtes-vous sûr de vouloir supprimer la mise en page responsive '$option$' ?", "placeholders": { "option": { "content": "$1" } } },
+   "deleteSessionCookies": { "message": "Supprimer les cookies de session" },
+   "deleteSessionCookiesMultipleConfirmation": { "message": "Êtes-vous sûre de vouloir supprimer les cookies de session $count$ ?", "placeholders": { "count": { "content": "$1" } } },
+   "deleteSessionCookiesMultipleResult": { "message": "$count$ cookies de session supprimés.", "placeholders": { "count": { "content": "$1" } } },
+   "deleteSessionCookiesNoneFound": { "message": "Il y a 0 cookies de session à supprimer." },
+   "deleteSessionCookiesSingleConfirmation": { "message": "Êtes-vous sûre de vouloir supprimer 1 cookie de session ?" },
+   "deleteSessionCookiesSingleResult": { "message": "1 cookie de session supprimé." },
+   "deleteTool": { "message": "Supprimer Outil" },
+   "deleteToolConfirmation": { "message": "Êtes-vous sûr de vouloir supprimer l’outil '$option$' ?", "placeholders": { "option": { "content": "$1" } } },
+   "depth": { "message": "Profondeur" },
+   "description": { "message": "Description" },
+   "descriptionCannotBeEmpty": { "message": "La description ne peut pas être vide." },
+   "descriptionPlaceholder": { "message": "Entrer une description" },
+   "disable": { "message": "Désactiver" },
+   "disableAllStyles": { "message": "Désactiver tous les styles" },
+   "disableBrowserDefaultStyles": { "message": "Désactiver les styles par défaut du navigateur" },
+   "disableCookies": { "message": "Désactiver les cookies" },
+   "disableCookiesResult": { "message": "Les cookies ont été désactivés." },
+   "disableEmbeddedStyles": { "message": "Désactiver les styles incorporés" },
+   "disableImages": { "message": "Désactiver les images" },
+   "disableImagesResult": { "message": "Les images ont été désactivées." },
+   "disableInlineStyles": { "message": "Désactiver les styles en ligne" },
+   "disableJavaScript": { "message": "Désactiver le JavaScript" },
+   "disableJavaScriptResult": { "message": "JavaScript a été désactivé." },
+   "disableLinkedStyleSheets": { "message": "Désactiver les feuilles de style liées" },
+   "disableNotifications": { "message": "Désactiver les notifications" },
+   "disableNotificationsResult": { "message": "Les notifications ont été désactivées." },
+   "disablePlugins": { "message": "Désactiver les plugins" },
+   "disablePluginsResult": { "message": "Les plugins ont été désactivés." },
+   "disablePopups": { "message": "Désactiver les fenêtres popups" },
+   "disablePopupsResult": { "message": "Popups ont été désactivées." },
+   "disablePrintStyles": { "message": "Désactiver les styles d’impression" },
+   "displayARIARoles": { "message": "Afficher les rôles ARIA" },
+   "displayAbbreviations": { "message": "Abréviations affichage" },
+   "displayAccessKeys": { "message": "Afficher les touches d’accès rapide" },
+   "displayAltAttributes": { "message": "Afficher les attributs Alt" },
+   "displayAnchors": { "message": "Ancrages affichage" },
+   "displayColorPicker": { "message": "Sélecteur de couleurs d’affichage" },
+   "displayDivDimensions": { "message": "Afficher les dimensions de div" },
+   "displayDivOrder": { "message": "Afficher l’ordre des div" },
+   "displayElementInformation": { "message": "Afficher les informations sur l’élément" },
+   "displayFormDetails": { "message": "Afficher les détails du formulaire" },
+   "displayHandheldStyles": { "message": "Afficher les styles de l’ordinateur de poche" },
+   "displayHiddenElements": { "message": "Afficher les éléments cachés" },
+   "displayHiddenElementsMultipleResult": { "message": "$count$ éléments cachés affichés.", "placeholders": { "count": { "content": "$1" } } },
+   "displayHiddenElementsSingleResult": { "message": "1 élément caché affiché." },
+   "displayIdClassDetails": { "message": "ID affichage et détails de la classe" },
+   "displayImageDimensions": { "message": "Afficher les dimensions de l’image" },
+   "displayImagePaths": { "message": "Afficher les chemins d’accès aux images" },
+   "displayLineGuides": { "message": "Guides de ligne affichage" },
+   "displayLinkDetails": { "message": "Afficher les détails du lien" },
+   "displayObjectInformation": { "message": "Afficher les informations sur l’objet" },
+   "displayOverlayWith": { "message": "Afficher la superposition avec" },
+   "displayPasswords": { "message": "Mots de passe affichage" },
+   "displayPasswordsMultipleResult": { "message": "$count$ mots de passe affichés.", "placeholders": { "count": { "content": "$1" } } },
+   "displayPasswordsSingleResult": { "message": "1 mot de passe affiché." },
+   "displayPrintStyles": { "message": "Display Print Styles" },
+   "displayRuler": { "message": "Règle d’affichage" },
+   "displayStackLevels": { "message": "Afficher les niveaux de pile" },
+   "displayTabIndex": { "message": "Afficher l’index de l’onglet" },
+   "displayTableDepth": { "message": "Afficher la profondeur de la table" },
+   "displayTableInformation": { "message": "Afficher les informations sur la table" },
+   "displayTitleAttributes": { "message": "Afficher les attributs de titre" },
+   "displayTopographicInformation": { "message": "Afficher les informations topographiques" },
+   "displayWindowSize": { "message": "Taille de la fenêtre d’affichage" },
+   "displayWindowSizeResult": { "message": "Fenêtre: $outerWidth$px x $outerHeight$px &nbsp;&nbsp;&nbsp; Fenêtre: $innerWidth$px x $innerHeight$px", "placeholders": { "innerHeight": { "content": "$4" }, "innerWidth": {  "content": "$3" }, "outerHeight": { "content": "$2" }, "outerWidth": { "content": "$1" } } },
+   "documentOutline": { "message": "Plan du document" },
+   "documents": { "message": "Documents" },
+   "dom": { "message": "DOM" },
+   "dragDropReorder": { "message": "Faites glisser et déposez pour réorganiser." },
+   "duplicateId": { "message": "Duplicata d’identité" },
+   "duplicateIds": { "message": "Identifiants en double" },
+   "edit": { "message": "Editer..." },
+   "editCSS": { "message": "Editer CSS" },
+   "editCookie": { "message": "Editer Cookie" },
+   "editResizeDimensions": { "message": "Modifier les dimensions de redimensionnement..." },
+   "editResizeOption": { "message": "Modifier l'option de redimensionnement" },
+   "editResponsiveLayout": { "message": "Modifier l'option de redimensionnement responsif" },
+   "editTool": { "message": "Outil d'édition" },
+   "editTools": { "message": "Outil d'édition..." },
+   "elementInformation": { "message": "Elément Information" },
+   "elements": { "message": "Eléments" },
+   "embeddedCSSFrom": { "message": "CSS intégré à partir de" },
+   "embeddedJavaScriptFrom": { "message": "JavaScript intégré à partir de" },
+   "embeddedStyles": { "message": "Styles incorporés" },
+   "enableAutoCompletion": { "message": "Activer l’auto-complétion" },
+   "enableAutoCompletionMultipleResult": { "message": "Activation de l’auto-complétion pour $count$ ", "placeholders": { "count": { "content": "$1" } } },
+   "enableAutoCompletionSingleResult": { "message": "Activation de l’auto-complétion pour 1 élément." },
+   "enableCookiesResult": { "message": "Les cookies ont été activés." },
+   "enableFormFields": { "message": "Activer les champs de formulaire" },
+   "enableFormFieldsMultipleResult": { "message": "$count$ champs de formulaire activés.", "placeholders": { "count": { "content": "$1" } } },
+   "enableFormFieldsSingleResult": { "message": "1 champ de formulaire activé." },
+   "enableImagesResult": { "message": "Les images ont été activés." },
+   "enableJavaScriptResult": { "message": "JavaScript a été activé." },
+   "enableNotificationsResult": { "message": "Les notifications ont été activées." },
+   "enablePluginsResult": { "message": "Les plugins ont été activés." },
+   "enablePopupsResult": { "message": "Les fenêtres popups ont été activées." },
+   "endPositionX": { "message": "Position finale : X =" },
+   "expandAll": { "message": "Développer tout" },
+   "expandSelectElements": { "message": "Développer sélectionner des éléments" },
+   "expandSelectElementsMultipleResult": { "message": "$count$ certains éléments développés.", "placeholders": { "count": { "content": "$1" } } },
+   "expandSelectElementsSingleResult": { "message": "1 Sélectionnez l’élément développé." },
+   "expires": { "message": "Expire" },
+   "expiresCannotBeEmpty": { "message": "La date d’expiration ne peut pas être vide s’il ne s’agit pas d’un cookie de session." },
+   "expiresNotValid": { "message": "La date d’expiration n’est pas une date valide." },
+   "expiresPlaceholder": { "message": "Entrez la date d’expiration" },
+   "extensionDescription": { "message": "Ajoute un bouton de barre d’outils avec divers outils de développement Web." },
+   "extensionGalleryError": { "message": "ne fonctionne pas sur la galerie d’extensions Chrome ou le site des modules complémentaires de Firefox.  \u003Ca href=\"http://chrispederick.com/work/web-developer/help/#extension-gallery\" class=\"alert-link\" target=\"_blank\">Plus d’informations\u003C/a>" },
+   "extensionName": { "message": "Développeur Web" },
+   "findBrokenImages": { "message": "Rechercher des images cassées" },
+   "findDuplicateIds": { "message": "Rechercher les identifiants en double" },
+   "followOnTwitter": { "message": "Suivez-nous sur Twitter" },
+   "form": { "message": "Forme" },
+   "forms": { "message": "Formes" },
+   "from": { "message": "De" },
+   "general": { "message": "Général" },
+   "heading": { "message": "Rubrique" },
+   "headings": { "message": "Rubriques" },
+   "height": { "message": "Hauteur" },
+   "heightCannotBeEmpty": { "message": "La hauteur ne peut pas être vide." },
+   "heightNotValid": { "message": "La hauteur n’est pas valide." },
+   "heightPlaceholder": { "message": "Entrez la hauteur en pixels" },
+   "help": { "message": "Aide..." },
+   "hideBackgroundImages": { "message": "Masquer les images d’arrière-plan" },
+   "hideImages": { "message": "Masquer les images" },
+   "host": { "message": "Hôte" },
+   "hostCannotBeEmpty": { "message": "L’hôte ne peut pas être vide." },
+   "hostCannotBeLocalhost": { "message": "Ne pas ajouter de cookies sur un domaine localhost. \u003Ca href=\"http://chrispederick.com/work/web-developer/help/#cookies-localhost\">Plus d’informations\u003C/a>" },
+   "hostPlaceholder": { "message": "Entrez l’hôte" },
+   "hoverColor": { "message": "Couleur de survol :" },
+   "httpOnly": { "message": "Http seulement" },
+   "icons": { "message": "Icônes" },
+   "iconsText": { "message": "Icônes & texte" },
+   "id": { "message": "Id" },
+   "image": { "message": "Image" },
+   "images": { "message": "Images" },
+   "information": { "message": "Information" },
+   "internalBrowserPagesError": { "message": "does not work on internal browser pages." },
+   "javaScript": { "message": "JavaScript" },
+   "keyboard": { "message": "Clavier" },
+   "label": { "message": "Label" },
+   "layout": { "message": "Layout" },
+   "layouts": { "message": "Layouts" },
+   "light": { "message": "Clair" },
+   "lineGuides": { "message": "Guides de ligne" },
+   "linearizePage": { "message": "Linéariser la page" },
+   "link": { "message": "Lien" },
+   "linkInformation": { "message": "Lien information" },
+   "links": { "message": "Liens" },
+   "makeFormFieldsWritable": { "message": "Rendre les champs de formulaire accessibles en écriture" },
+   "makeFormFieldsWritableMultipleResult": { "message": "$count$ des champs de formulaire sont rendus inscriptibles.", "placeholders": { "count": { "content": "$1" } } },
+   "makeFormFieldsWritableSingleResult": { "message": "1 champ de formulaire rendu inscriptible." },
+   "makeFramesResizable": { "message": "Rendre les cadres redimensionnables" },
+   "makeFramesResizableMultipleResult": { "message": "$count$ cadres rendus redimensionnables.", "placeholders": { "count": { "content": "$1" } } },
+   "makeFramesResizableSingleResult": { "message": "1 cadre redimensionnable." },
+   "makeImagesFullSize": { "message": "Rendre les images en taille réelle" },
+   "makeImagesFullSizeMultipleResult": { "message": "$count$ images en taille réelle.", "placeholders": { "count": { "content": "$1" } } },
+   "makeImagesFullSizeSingleResult": { "message": "1 image en taille réelle." },
+   "makeImagesInvisible": { "message": "Rendre les images invisibles" },
+   "markAllLinksUnvisited": { "message": "Marquer tous les liens non visités" },
+   "markAllLinksUnvisitedResult": { "message": "Tous les liens ont été marqués comme non visités." },
+   "markAllLinksVisited": { "message": "Marquer tous les liens visités" },
+   "markAllLinksVisitedResult": { "message": "Tous les liens ont été marqués comme visités." },
+   "maximumLength": { "message": "Longueur maximale" },
+   "metaTag": { "message": "meta tag" },
+   "metaTags": { "message": "Meta Tags" },
+   "method": { "message": "Méthode" },
+   "miscellaneous": { "message": "Divers" },
+   "missingHeading": { "message": "(En-tête manquant)" },
+   "name": { "message": "Nom" },
+   "nameCannotBeEmpty": { "message": "Le nom ne peut pas être vide." },
+   "namePlaceholder": { "message": "Entrez le nom" },
+   "nextPosition": { "message": "Position suivante =" },
+   "no": { "message": "Non" },
+   "noHeadingText": { "message": "(Pas de texte d’en-tête)" },
+   "none": { "message": "Aucune" },
+   "options": { "message": "Options" },
+   "optionsMenu": { "message": "Options..." },
+   "outline": { "message": "Contour" },
+   "outlineAbsolutePositionedElements": { "message": "Contour des éléments positionnés de manière absolue" },
+   "outlineAllImages": { "message": "Contour de toutes les images" },
+   "outlineBackgroundImages": { "message": "Contour des images d’arrière-plan" },
+   "outlineBlockLevelElements": { "message": "Contour des éléments de niveau de bloc" },
+   "outlineDeprecatedElements": { "message": "Décrire les éléments obsolètes" },
+   "outlineExternalLinks": { "message": "Aperçu des liens externes" },
+   "outlineFixedPositionedElements": { "message": "Contour des éléments positionnés fixes" },
+   "outlineFloatedElements": { "message": "Contour des éléments flottants" },
+   "outlineFormFieldsWithoutLabels": { "message": "Contour des champs de formulaire sans libellés" },
+   "outlineFrames": { "message": "Cadres contour" },
+   "outlineHeadings": { "message": "En-têtes de rubrique" },
+   "outlineImagesWithAdjustedDimensions": { "message": "Contour des images avec des dimensions ajustées" },
+   "outlineImagesWithEmptyAltAttributes": { "message": "Contour d’images avec des attributs Alt vides" },
+   "outlineImagesWithOversizedDimensions": { "message": "Contour des images avec des dimensions ajustées" },
+   "outlineImagesWithoutAltAttributes": { "message": "Images de plan sans attributs Alt" },
+   "outlineImagesWithoutDimensions": { "message": "Contour d’images sans dimensions" },
+   "outlineNonSecureElements": { "message": "Décrire les éléments non sécurisés" },
+   "outlineRelativePositionedElements": { "message": "Contour des éléments positionnés relatifs" },
+   "outlineTableCaptions": { "message": "Légendes de cellule de tableau" },
+   "outlineTableCells": { "message": "Définir les cellules du tableau" },
+   "outlineTables": { "message": "Tableaux cellule" },
+   "password": { "message": "Mot de passe" },
+   "path": { "message": "Chemin" },
+   "pathCannotBeEmpty": { "message": "Le chemin ne peut pas être vide." },
+   "pathPlaceholder": { "message": "Entrez le chemin d’accès" },
+   "populateEmailAddress": { "message": "Adresse e-mail à utiliser pour remplir les champs du formulaire de courrier électronique" },
+   "populateFormFields": { "message": "Remplir les champs de formulaire" },
+   "populateFormFieldsMultipleResult": { "message": "$count$ champs de formulaire remplis.", "placeholders": { "count": { "content": "$1" } } },
+   "populateFormFieldsSingleResult": { "message": "1 champ de formulaire rempli." },
+   "position": { "message": "Position" },
+   "positionLabel": { "message": "Position =" },
+   "preview": { "message": "Prévisualisation" },
+   "previousPosition": { "message": "Position précédente =" },
+   "property": { "message": "Propriété" },
+   "reloadImages": { "message": "Recharger les images" },
+   "reloadImagesResult": { "message": "Toutes les images ont été rechargées." },
+   "reloadLayouts": { "message": "Recharger les mises en page" },
+   "reloadLinkedStyleSheets": { "message": "Recharger les feuilles de style liées" },
+   "reloadLinkedStyleSheetsResult": { "message": "Toutes les feuilles de style liées ont été rechargées." },
+   "removeFormValidation": { "message": "Supprimer la validation du formulaire" },
+   "removeFormValidationMultipleResult": { "message": "Suppression de la validation du formulaire $count$ ", "placeholders": { "count": { "content": "$1" } } },
+   "removeFormValidationSingleResult": { "message": "Suppression de la validation d’un champ de formulaire." },
+   "removeMaximumLengths": { "message": "Supprimer les longueurs maximales" },
+   "removeMaximumLengthsMultipleResult": { "message": "Suppression de la longueur maximale des champs de formulaire $count$.", "placeholders": { "count": { "content": "$1" } } },
+   "removeMaximumLengthsSingleResult": { "message": "Suppression de la longueur maximale d’un champ de formulaire." },
+   "replaceImagesWithAltAttributes": { "message": "Remplacer les images par des attributs Alt" },
+   "resetDisableFeatures": { "message": "Réinitialiser les fonctionnalités de désactivation" },
+   "resetDisableFeaturesResult": { "message": "Toutes les fonctionnalités désactivées ou activées par Web Developer ont été réinitialisées." },
+   "resetPage": { "message": "Réinitialiser la page" },
+   "resize": { "message": "Redimensionner" },
+   "resizeWindow": { "message": "Redimensionner fenêtre" },
+   "resizeWindowMenu": { "message": "Redimensionner fenêtre..." },
+   "resize_1_description": { "message": "1024x768" },
+   "responseHeaders": { "message": "Response Headers" },
+   "responsive": { "message": "Responsive" },
+   "responsiveLayouts": { "message": "Responsive cadres" },
+   "responsive_layout_1_description": { "message": "Mobile portrait" },
+   "responsive_layout_2_description": { "message": "Mobile paysage" },
+   "responsive_layout_3_description": { "message": "Mode portrait sur petite tablette" },
+   "responsive_layout_4_description": { "message": "Mode paysage sur petites tablettes" },
+   "responsive_layout_5_description": { "message": "Mode portrait sur tablette" },
+   "responsive_layout_6_description": { "message": "Mode paysage sur tablette" },
+   "ruler": { "message": "Règle" },
+   "save": { "message": "Sauver" },
+   "secure": { "message": "Sécurisé" },
+   "secureCookie": { "message": "Cookie sécurisé" },
+   "selectAnElementDisplayInformation": { "message": "Sélectionnez un élément pour afficher les informations le concernant" },
+   "selectedColor": { "message": "Couleur sélectionnée :" },
+   "sessionCookie": { "message": "Cookie de session" },
+   "showElementTagNames": { "message": "Afficher les noms des balises d’élément" },
+   "size": { "message": "Taille" },
+   "src": { "message": "Src" },
+   "startPositionX": { "message": "Start Position: X =" },
+   "syntaxHighlightPerformance": { "message": "Notez que l'activation de la coloration syntaxique peut affecter les performances du navigateur." },
+   "syntaxHighlightTheme": { "message": "Thème de mise en évidence de la syntaxe" },
+   "syntaxHighlighting": { "message": "Mise en évidence de la syntaxe" },
+   "text": { "message": "Texte" },
+   "tool_1_description": { "message": "Valider le CSS" },
+   "tool_2_description": { "message": "Valider le flux" },
+   "tool_3_description": { "message": "Valider le HTML" },
+   "tool_4_description": { "message": "Valider l'accessibilité" },
+   "tool_5_description": { "message": "Valider les liens" },
+   "tool_6_description": { "message": "Valider les données structurées" },
+   "tools": { "message": "Outils" },
+   "type": { "message": "Type" },
+   "uncheckAllCheckboxes": { "message": "Décochez toutes les cases" },
+   "uncheckAllCheckboxesMultipleResult": { "message": "$count$ cases à cocher non cochées.", "placeholders": { "count": { "content": "$1" } } },
+   "uncheckAllCheckboxesSingleResult": { "message": "1 case à cocher décochée." },
+   "undoBeautifyJavaScript": { "message": "Annuler l’embellissement JavaScript" },
+   "url": { "message": "URL" },
+   "urlCannotBeEmpty": { "message": "L’URL ne peut pas être vide." },
+   "urlPlaceholder": { "message": "Entrer une URL" },
+   "useBorderBoxModel": { "message": "Use Border Box Model" },
+   "validateLocalCSS": { "message": "Valider le CSS local" },
+   "validateLocalHTML": { "message": "Valider le HTML local" },
+   "value": { "message": "Valeur" },
+   "valuePlaceholder": { "message": "Entrer la valeur" },
+   "version": { "message": "Version" },
+   "viewAnchorInformation": { "message": "Afficher les informations sur l’ancrage" },
+   "viewCSS": { "message": "Voir CSS" },
+   "viewColorInformation": { "message": "Afficher les informations sur les couleurs" },
+   "viewCookieInformation": { "message": "Afficher les informations sur le Cookie" },
+   "viewDocumentOutline": { "message": "Afficher le plan du document" },
+   "viewFormInformation": { "message": "Afficher les informations du formulaire" },
+   "viewImageInformation": { "message": "View Image Information" },
+   "viewJavaScript": { "message": "Voir JavaScript" },
+   "viewLinkInformation": { "message": "Afficher les informations sur le lien" },
+   "viewMetaTagInformation": { "message": "Afficher les informations sur les balises Meta" },
+   "viewResponseHeaders": { "message": "Afficher les en-têtes de réponse" },
+   "viewResponsiveLayouts": { "message": "🪟 Voir les pages reponsives" },
+   "viewSource": { "message": "Voir la source" },
+   "viewportDescription": { "message": "Redimensionner la fenêtre d’affichage" },
+   "width": { "message": "Largeur" },
+   "widthCannotBeEmpty": { "message": "La largeur ne peut pas être vide." },
+   "widthNotValid": { "message": "The width is not valid." },
+   "widthPlaceholder": { "message": "Entrez la largeur en pixels" },
+   "yLabel": { "message": "Y =" },
+   "yes": { "message": "Oui" }
 }
